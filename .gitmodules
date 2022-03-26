@@ -1,0 +1,9 @@
+[submodule "jovarkos-repo"]
+	path = jovarkos-repo
+	url = https://github.com/JovarkOS/jovarkos-repo
+[submodule "jovarkos-jbuild"]
+	path = jovarkos-jbuild
+	url = https://github.com/JovarkOS/jovarkos-jbuild
+[submodule "jovarkos-config"]
+	path = jovarkos-config
+	url = https://github.com/JovarkOS/jovarkos-config
