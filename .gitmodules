@@ -10,6 +10,6 @@
 [submodule "jovarkos-backgrounds"]
 	path = jovarkos-config/jovarkos-backgrounds/
 	url = https://github.com/JovarkOS/jovarkos-backgrounds
-[submodule "oh-my-zsh"]
-	path = jovarkos-config/archlive/airootfs/etc/skel/.oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh
+# [submodule "oh-my-zsh"]
+# 	path = jovarkos-config/archlive/airootfs/etc/skel/.oh-my-zsh
+# 	url = https://github.com/ohmyzsh/ohmyzsh
