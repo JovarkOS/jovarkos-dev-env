@@ -7,6 +7,3 @@
 [submodule "jovarkos-config"]
 	path = jovarkos-config
 	url = https://github.com/JovarkOS/jovarkos-config
-[submodule "jovarkos-backgrounds"]
-	path = jovarkos-config/jovarkos-backgrounds
-	url = https://github.com/JovarkOS/jovarkos-backgrounds
