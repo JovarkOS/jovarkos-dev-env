@@ -1,3 +1,6 @@
 archlive/
 working/
 output/
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
