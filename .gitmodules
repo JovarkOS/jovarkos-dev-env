@@ -1,15 +1,15 @@
 [submodule "jovarkos-repo"]
 	path = jovarkos-repo
-	url = https://github.com/JovarkOS/jovarkos-repo
+	url = https://github.com/jovarkos/jovarkos-repo
 [submodule "jovarkos-jbuild"]
 	path = jovarkos-jbuild
-	url = https://github.com/JovarkOS/jovarkos-jbuild
+	url = https://github.com/jovarkos/jovarkos-jbuild
 [submodule "jovarkos-config"]
 	path = jovarkos-config
-	url = https://github.com/JovarkOS/jovarkos-config
+	url = https://github.com/jovarkos/jovarkos-config
 [submodule "jovarkos-backgrounds"]
 	path = jovarkos-config/jovarkos-backgrounds/
-	url = https://github.com/JovarkOS/jovarkos-backgrounds
+	url = https://github.com/jovarkos/jovarkos-backgrounds
 [submodule "jovarkos-software-recommendations"]
 	path = jovarkos-software-recommendations
-	url = https://github.com/JovarkOS/jovarkos-software-recommendations
+	url = https://github.com/jovarkos/jovarkos-software-recommendations
