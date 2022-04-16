@@ -10,3 +10,6 @@
 [submodule "jovarkos-backgrounds"]
 	path = jovarkos-config/jovarkos-backgrounds/
 	url = https://github.com/JovarkOS/jovarkos-backgrounds
+[submodule "jovarkos-software-recommendations"]
+	path = jovarkos-software-recommendations
+	url = https://github.com/JovarkOS/jovarkos-software-recommendations
