@@ -10,3 +10,6 @@
 [submodule "jovarkos-software-recommendations"]
 	path = jovarkos-software-recommendations
 	url = https://github.com/jovarkos/jovarkos-software-recommendations
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jovarkos/docs
