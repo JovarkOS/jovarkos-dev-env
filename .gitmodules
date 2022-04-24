@@ -13,3 +13,9 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/jovarkos/docs
+[submodule "jovarkos-media"]
+	path = jovarkos-media
+	url = https://github.com/jovarkos/jovarkos-media
+[submodule "jovarkos-website"]
+	path = jovarkos-website
+	url = https://github.com/jovarkos/jovarkos-website
