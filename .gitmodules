@@ -19,3 +19,6 @@
 [submodule "jovarkos-website"]
 	path = jovarkos-website
 	url = https://github.com/jovarkos/jovarkos-website
+[submodule "jovarkos-webmaker"]
+	path = jovarkos-webmaker
+	url = https://github.com/jovarkos/jovarkos-webmaker
