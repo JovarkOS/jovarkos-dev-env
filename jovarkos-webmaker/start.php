@@ -144,14 +144,14 @@ function errorMissing($missingVariable) {
 <html lang="en">
 
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description"
-		content="JovarkOS is an Arch-based GNU/Linux distribution offering stability, usability, and speed, in that order. Join us today!" />
-	<meta name="author" content="JovarkOS Development Team, Lucas Burlingham" />
+		content="JovarkOS is an Arch-based GNU/Linux distribution offering stability, usability, and speed, in that order. Join us today!">
+	<meta name="author" content="JovarkOS Development Team, Lucas Burlingham">
 	<title>Review Settings | JovarkOS WebMaker</title>
 	<!-- Favicon-->
-	<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="assets/favicon.ico">
 	<!-- FontAwesome 5.15.3 CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
 		integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
@@ -162,10 +162,10 @@ function errorMissing($missingVariable) {
 		integrity="sha512-RXf+QSDCUQs5uwRKaDoXt55jygZZm2V++WUZduaU/Ui/9EGp3f/2KZVahFZBKGH0s774sd3HmrhUy+SgOFQLVQ=="
 		crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
 	<!-- Bootstrap icons-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
 	<!-- Core theme CSS (includes Bootstrap)-->
-	<link href="css/styles.css" rel="stylesheet" />
-	<!-- <link rel="canonical" href="https://jovarkos.org/index.html" /> -->
+	<link href="css/styles.css" rel="stylesheet">
+	<!-- <link rel="canonical" href="https://jovarkos.org/index.html"> -->
 
 </head>
 
