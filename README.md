@@ -1,7 +1,7 @@
 # JovarkOS Development Environment
 *Clone only one git repo to start development quickly*
 
-**For the uninitiated:**
+## Get Started
 ```bash
 git clone --recurse-submodules -j$(nproc) https://github.com/jovarkos/jovarkos-dev-env.git
 ```
