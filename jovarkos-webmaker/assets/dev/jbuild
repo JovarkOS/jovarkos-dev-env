@@ -13,7 +13,7 @@ function generic_error() {
     echo "Incorrect syntax or options. Please use the 'help' flag for more information."
 }
 
-function error_no-archiso() {
+function no_archiso_dir() {
 	if [ ! -d "$SOURCE" ]; then
             echo "Please select profile to build upon: "
             echo "    releng (Used in Official Monthly Builds)"
@@ -25,7 +25,7 @@ function error_no-archiso() {
 }
 
 function build_iso() {
-    error_no-archiso
+    no_archiso_dir
     echo "Clearing $WORKING directory before beginning..."
     sudo rm -rf $WORKING
     echo "Copying $CONFIG/archlive to $(pwd)..."
